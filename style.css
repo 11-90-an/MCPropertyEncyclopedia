@@ -5,10 +5,10 @@ body  {
     /* padding-bottom: 70px; */
     
     background: url("assets/blockpropertythingy.png") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
     height: 100vh;
     overflow-x: auto;
 }
