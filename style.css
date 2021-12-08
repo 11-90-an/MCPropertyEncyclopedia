@@ -11,7 +11,8 @@ body  {
     background-size: cover;
     height: 100vh;
     overflow-x: auto;
-    bottom: 0px;
+    margin: 0px;
+    box-sizing: border-box;
 }
 
 .main-body {
