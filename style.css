@@ -9,8 +9,9 @@ body  {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 101vh;
+    height: 100vh;
     overflow-x: auto;
+    bottom: 0px;
 }
 
 .main-body {
